@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
       <head>
           <meta charSet="UTF-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-          <title>Document</title>
+          <title>Domain Search Practice 2</title>
           
           <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.css" rel="stylesheet" />
       </head>
